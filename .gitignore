@@ -208,3 +208,4 @@ __marimo__/
 
 # ignore '20250615-London-listings.csv' file
 20250615-London-listings.csv/
+.DS_Store
